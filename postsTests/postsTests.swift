@@ -6,7 +6,7 @@
 //
 
 import XCTest
-@testable import posts
+@testable import Landmark
 
 final class postsTests: XCTestCase {
 
